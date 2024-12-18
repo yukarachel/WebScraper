@@ -1,1 +1,1 @@
-# HW3
+I created a webscraper that can "crawl" through webpages, get information from them, and save them to a csv file. I decided to write a spider using scrapy that crawls through the IMDB website to scrap data from the movie "Forrest Gump".
